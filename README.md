@@ -13,7 +13,7 @@ this is a multi-functional tool with too many options to use on discord.com, all
 - Free OMG
 
 ## ✍️ Usage
-1. Open `main.py` (u need 200 IQ)
+1. Open `main.exe` (u need 200 IQ)
 
 ## ⚠️ DISCLAIMER / NOTES
 This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
