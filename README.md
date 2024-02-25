@@ -1,29 +1,27 @@
-# Discord Multi tool
+# Radu Tool | Discord Multi Tool 🪐
+RaduTool, a multi-functional tool with too many options to use on discord.com, all functions are unflagged and you will not have locks on your tokens. The tool can be used with proxies or without proxies. I hope you enjoy it and give it a star.
 
-There are a few Discord raid tools on GitHub, however, I didn't find that they suited my use case so I decided to make my own one, a much better one then any online at the moment. This tool aims to be the one and only raid tool you need.
+## 📹 Preview
 
-# Features
+![radutool](https://github.com/H4cK3dR4Du/Discord-Token-Generator/assets/118562174/147f4d0f-7f2d-4d5f-b765-f4c02568b6a9)
 
--Proxy Support
- 
- -Add/Remove Friends
- 
- -Logger
--
-Voice Chat Support
+## 🔥 Features
+- Proxy Support / Proxyless
+- Fully Requests Based Tool
+- Unflagged Modules
+- Unique / Working Modules
+- +30 EPIC Features To Enjoy
+- Spammers, Checkers, Humanizers and more!
+- Frequently Updates
+- Free OMG
 
- -Add Nickname Changing
- 
- -Add Ability To Change Status
- 
- -Add Ability To Heartbeat Token
- 
- -Add Support For Colon Emojis :joy:
- 
- -Token Checker
--
-Create, Train, Manage Captcha Solving AI
+## ✍️ Usage
+1. Open `main.py` (u need 200 IQ)
 
--Allow Fake Typing
+## ⚠️ DISCLAIMER / NOTES
+This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
+ 
+## ✨ Issues / Doubts
 
--Anti-Kick, Auto Join Back If Kicked
+- If you have any questions do not hesitate to enter my discord: https://discord.gg/Un63v2truD
+- Or if you have any error do not forget to report it in: [issues](https://github.com/H4cK3dR4Du/Radu-Tool/issues/new)
